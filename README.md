@@ -1,6 +1,6 @@
 # compass_app
 
-A new Flutter project.
+A ITCS424 Wireless and Mobile Computing Flutter project.
 
 ## Getting Started
 

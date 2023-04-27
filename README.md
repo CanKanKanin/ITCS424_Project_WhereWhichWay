@@ -13,5 +13,5 @@ feel free to contact us if you got any problem
 - kanin.pra@student.mahidol.ac.th
 - pongpop.lap@student.mahidol.ac.th
 
-And to access google map feature, you must insert your google map API key in the file named "AppDelegate.swift"
+### And to access google map feature, you must insert your google map API key in the file named "AppDelegate.swift"
 you can find it at ios -> Runner -> AppDelegate.swift

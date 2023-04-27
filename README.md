@@ -9,4 +9,6 @@ A ITCS424 Wireless and Mobile Computing Flutter project.
 
 This project is builded as IOS application, so use IOS simulator to show the application and use Xcode to run on the real iphone device.
 
-feel free to contact me if you got any problem
+feel free to contact us if you got any problem
+- kanin.pra@student.mahidol.ac.th
+- pongpop.lap@student.mahidol.ac.th
